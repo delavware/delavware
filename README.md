@@ -2,6 +2,3 @@
 
 Hi there 👋
 I'm a full stack dev, trying to do his best to improve and be a better person everyday. I like technology and how it can help us reach new frontiers that we thought were imposible, and coding is one way to do it.
-
-🌱 I’m currently learning: Node.js.<br>
-⚡ Hobbies: Coding, running, chess, ping pong.
